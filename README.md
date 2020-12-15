@@ -10,4 +10,4 @@
  * JavaScript: Uso do '$' para criação de variáveis
  * JavaScript: relação entre JavaScript e CSS
  
- E muito mais sobre JavaScript, pois o usuário faz o código de uma maneira que nunca vi, e que preciso pesquisar
+ E muito mais sobre JavaScript, pois o usuário faz o código de uma maneira que nunca vi, e que preciso pesquisar. Pretendo atualiza-lo ao aprender como fazer

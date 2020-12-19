@@ -13,3 +13,12 @@
  * JavaScript: relação entre JavaScript e CSS
  
  E muito mais sobre JavaScript, pois o usuário faz o código de uma maneira que nunca vi, e que preciso pesquisar. Pretendo atualiza-lo ao aprender como fazer
+
+## Parallax 2
+![Preview](https://user-images.githubusercontent.com/63383435/102697919-800e4800-4218-11eb-9edd-0aed7c78df34.png)
+
+Esse foi feito com base no vídeo [SIMPLE PARALLAX (CSS3/HTML5/JS)](https://www.youtube.com/watch?v=ivfnUiCVnBU).
+Esse achei mais fácil de entender do que o Parallax 1, porém ainda algumas dúvidas em relação ao JavaScript, no qual tenho que praticar bastante, porém em relação a interface usando o HTML e CSS tenho mais facilidade para entender.
+Preciso treinar tanto a lógica quanto os elementos do JavaScript:
+
+O que me resta é praticar mais, dar uma olhada em alguns repositórios para praticar e fazer com minhas próprias mãos as aplicações
